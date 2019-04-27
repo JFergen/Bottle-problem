@@ -42,7 +42,7 @@ int main()
         cin >> newSoda;
     }
     
-    cout << endl << "Total number of bottles drunk: " << getTotalDrunk(emptyBottles, foundBottles, newSoda);
+    cout << endl << "Total number of bottles drunk: " << getTotalDrunk(emptyBottles, foundBottles, newSoda) << endl;
     return 0;
 }
 
